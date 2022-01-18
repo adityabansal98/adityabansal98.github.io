@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.stociall.stociall",
+    "sha256_cert_fingerprints":
+    ["00:8A:75:A5:86:CA:28:6A:B0:D9:5C:B6:DD:C5:C9:AA:CC:39:02:14:D4:09:13:3E:05:20:0C:A5:22:3A:30:8B"]
+  }
+}] 
